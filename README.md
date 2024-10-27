@@ -17,7 +17,7 @@
   Hi, I'm James Wang, Senior Software Engineer & Software Developer from Hong Kong
   <br>
   <br>
-  🔬 I'm currently working as a freeancer and have much experience over 5 years
+  🔬 I'm currently working as a freeancer and have much experience over 7 years
   <br>
   🎓 I graduated from City University of Hong Kong Computer Science Department
   <br>
